@@ -1,6 +1,7 @@
 <?php
 $members = array(
    "Mark Louie Villanueva",
+   "Lira Angela Torralba",
    "Christian James Torrillo"
 );
 
