@@ -1,6 +1,9 @@
 <?php
 $members = array(
-   "Denise Gabrielle Suarez"
+   "Mark Louie Villanueva",
+   "Christian James Torrillo",
+   "Aldin Leycano",
+   "Lira Angela Torralba"
 );
 
 ?>
