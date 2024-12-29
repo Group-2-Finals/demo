@@ -1,7 +1,8 @@
 <?php
 $members = array(
    "Mark Louie Villanueva",
-   "Christian James Torrillo"
+   "Christian James Torrillo",
+   "Aldin Leycano"
 );
 
 ?>
