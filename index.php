@@ -3,9 +3,9 @@ $members = array(
    "Mark Louie Villanueva",
    "Christian James Torrillo",
    "Aldin Leycano",
-   "Lira Angela Torralba",
-   "Christian James Torrillo",
    "Denise Gabrielle Suarez"
+   "Lira Angela Torralba",
+   "Christian James Torrillo"
 );
 
 ?>
