@@ -5,7 +5,8 @@ $members = array(
    "Aldin Leycano",
    "Lira Angela Torralba",
    "Carl Stephene Padua",
-   "Denise Gabrielle Suarez"
+   "Denise Gabrielle Suarez",
+   "Jannah Ibarondo"
 );
 
 ?>
